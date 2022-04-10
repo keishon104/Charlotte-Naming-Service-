@@ -1,6 +1,18 @@
-# buildspace DNS starter project
+# Charlotte Naming Service
 
-### **Welcome 👋**
+### **Welcome**
+
+The puprpose of this project is to create an website where residents and fans of Charlotte can associate a wallet to their business or venture. This could enable easier donations or purchases of items.
+
+This project is based off of the buildspace website resources for building an custom blockchain naming service much like ENS.
+
+### Technologies Used:
+
+- PolyGon
+- Solidity
+- Hardhat
+- ReactJS
+- Ethers
 
 To get started with this course, clone this repo and follow these commands:
 
@@ -9,8 +21,5 @@ To get started with this course, clone this repo and follow these commands:
 3. Start coding!
 
 ### What is the `.vscode` Folder?
+
 If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
-
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
